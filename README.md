@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Lượt xem Profile](https://komarev.com/ghpvc/?username=phuonqluu&color=blue&style=flat-square)
 <!--
 **phuonqluu/phuonqluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
