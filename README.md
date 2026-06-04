@@ -1,12 +1,13 @@
 <div align="center">
-  <h1>Chào mừng đến với kênh của tôi<img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35"></h1>
+  <h1>Chào mừng đến với không gian GitHub của tôi</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=QA+Automation+Tester+%E2%9A%99%EF%B8%8F;Web+Developer+%F0%9F%92%BB;Always+learning%2C+always+creating+%F0%9F%8C%B1" alt="Typing SVG" />
+    <!-- Đã đổi nội dung chữ chạy thành: QA Automation Engineer | Web Developer | Problem Solver -->
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;Web+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 
   <p style="margin-top: 10px;">
-    <i>Crafting test automation experiences, vibing with <b>Scrum</b>, <br> and building a cool e-bookstore on the side. ✨</i>
+    <i>Focused on test automation and applying <b>Scrum</b> methodologies <br> to deliver high-quality software.</i>
   </p>
 </div>
 
@@ -21,13 +22,13 @@
 
 <h2 align="center">🏆 Thành tích & Chuỗi hoạt động (Analytics & Streak)</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phuonqluu&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=phuonqluu&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophy" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuonqluu&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=phuonqluu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
